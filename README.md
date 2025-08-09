@@ -1,2 +1,3 @@
-# Here is some of My contribution (initially done) in Gif-Maker (an iOS application developed with Swift) and it's still going on.
+# Here are some of my contributions to Gif-Maker (an iOS app built with Swift UIKit).
+
 
